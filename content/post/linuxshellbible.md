@@ -1,5 +1,5 @@
 ---
-title: "LinuxShellBible"
+title: "Linux Shell Bible"
 date: 2019-08-12T09:07:23+08:00
 contentCopyright: false
 categories: [ "Shell" ]
@@ -26,7 +26,7 @@ Linux 内核采用虚拟文件系统作为每个文件系统交互的接口
 
 修改子 shell 中全局环境变量并不会影响父 shell 中该变量的值
 
-登陆 shell 通常按照 .bash\_profile .bash\_login .profile 的顺序运行第一个被找到的文件，余下的则忽略
+登陆 shell 通常按照 `.bash\_profile` `.bash\_login` `.profile` 的顺序运行第一个被找到的文件，余下的则忽略
 
 系统用户是系统上运行的各种服务进程访问资源用的特殊账户，所有运行在后台的服务都需要用一个系统用户账号登陆到 Linux 系统上
 

@@ -8,4 +8,7 @@ draft: false
 
 极简主义
 
+脚本实现 markdown 转 docx
+脚本实现提取 changelog 到 xlsx
+
 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch
