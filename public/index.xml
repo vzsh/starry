@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starry</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Starry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Aug 2019 09:07:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LinuxShellBible</title>
+      <link>http://localhost:1313/post/linuxshellbible/</link>
+      <pubDate>Mon, 12 Aug 2019 09:07:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/linuxshellbible/</guid>
+      <description>本文为《Linux命令行与shell脚本编程大全（第3版）》的学习笔记，从 http://www.wiley.com/go/linuxcommandline 可下载其代码 Linux 命令行 Linux 内核主要负责管理系统内存、应用程序、硬件设</description>
+    </item>
+    
+    <item>
+      <title>TodoStack</title>
+      <link>http://localhost:1313/post/todostack/</link>
+      <pubDate>Tue, 06 Aug 2019 11:13:06 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/todostack/</guid>
+      <description>深入理解计算机操作系统 极简主义 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Thu, 01 Aug 2019 09:11:22 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>Hello, this is my first blog</description>
+    </item>
+    
+  </channel>
+</rss>
