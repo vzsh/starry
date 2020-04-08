@@ -9,6 +9,7 @@ draft: false
 本文为《Linux命令行与shell脚本编程大全（第3版）》的学习笔记，从 `http://www.wiley.com/go/linuxcommandline` 可下载其代码
 
 ### Linux 命令行
+
 Linux 内核主要负责管理系统内存、应用程序、硬件设备和文件系统 
 Linux 将硬件设备当成设备文件，与设备的所有通信都通过设备节点完成。设备文件有三类：字符型设备、快设备文件和网络设备文件 
 Linux 内核采用虚拟文件系统作为每个文件系统交互的接口 
