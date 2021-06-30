@@ -1,7 +1,7 @@
 ---
 title: "毛泽东箴言"
 date: 2021-05-03T21:51:32+08:00
-categories: "哲学"
+categories: [ "哲学" ]
 draft: false
 ---
 > 需补充说话背景
