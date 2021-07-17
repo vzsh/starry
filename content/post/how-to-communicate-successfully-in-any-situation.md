@@ -2,7 +2,7 @@
 title: "《跟任何人都聊得来》笔记"
 contentCopyright: false
 date: 2020-03-22T10:24:37+08:00
-categories: [ "Read" ]
+categories: [ "阅读" ]
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "宫崎骏的橘子"
 contentCopyright: false
 date: 2020-04-05T23:28:21+08:00
-categories: [ "伪文艺" ]
+categories: [ "Movie" ]
 draft: false
 ---
 

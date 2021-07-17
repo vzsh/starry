@@ -2,7 +2,7 @@
 title: "左耳听风"
 date: 2020-03-24T22:17:24+08:00
 contentCopyright: false
-categories: [ "Read" ]
+categories: [ "阅读" ]
 draft: false
 ---
 
