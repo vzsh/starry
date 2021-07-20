@@ -51,6 +51,23 @@ draft: false
 
 ### 专业知识
 
+- [ ] C Primer Plus，主要是指针和内存管理
+- [ ] Essential C++
+- [ ] C++ Primer
+- [ ] Effeetive C++
+- [ ] More Effeetive C++
+- [ ] C++ 标准程序库
+- [ ] 深入探索 C++ 对象模型
+- [ ] C++ Primer Plus
+- [ ] Go In Action
+- [ ] 算法第四版
+- [ ] TCP/IP 详解
+- [ ] 计算机网络 自顶向下
+- [ ] Unix 环境高级编程
+- [ ] MySQL 必知必会
+- [ ] 高性能 MySQL
+- [ ] 重构 改善既有代码的设计
+
 Tips: 资源，认知，需求
 不要碎片化
 聚焦精力
