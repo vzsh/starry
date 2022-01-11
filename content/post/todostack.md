@@ -83,3 +83,15 @@ Tips: 资源，认知，需求
 1. 事务性工作特征：重复琐碎，可替代性高，无过便是功，没有愉悦感和成就感。
 2. 想办法减少事务性工作的时间，不断提升自我核心竞争力。
 3. 结合兴趣做一些可能在未来增值的事情，找到自己喜欢和擅长的方向，学习通用技能如：结构化思维、当中演讲、沟通技巧。
+
+### 学习 C++
+- [ ] [C++ 那些事](https://light-city.club/sc)
+- [ ] [C++ 面试基础](https://github.com/huihut/interview)
+- [ ] [C++ 入门系列](https://www.jianshu.com/u/67702c00ea59)
+- [ ] [你好 C++](https://zhuanlan.zhihu.com/nihaoCPP)
+- [ ] [C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+- [ ] [C++ 的抽象编程](https://www.bilibili.com/video/BV1G7411k7jG/)
+- [ ] 常用数据结构
+- [ ] 常见面试题
+- [ ] 高并发或高性能服务器项目
+
