@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movie on Starry</title>
+    <link>http://localhost:1313/categories/movie/</link>
+    <description>Recent content in Movie on Starry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Apr 2020 23:28:21 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/movie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>宫崎骏的橘子</title>
+      <link>http://localhost:1313/post/gong-qi-jun/</link>
+      <pubDate>Sun, 05 Apr 2020 23:28:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/gong-qi-jun/</guid>
+      <description>千与千寻 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 我不知道将去何方，但我已在路上。 曾经发生过的事情不可</description>
+    </item>
+    
+  </channel>
+</rss>

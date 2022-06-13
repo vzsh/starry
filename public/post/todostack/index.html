@@ -16,14 +16,14 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="zz" /><meta name="description" content="深入理解计算机操作系统 极简主义 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch" /><meta name="keywords" content="Hugo, theme, even" />
+<meta name="author" content="zz" /><meta name="description" content="7.16 清华大学推荐：论语、老子、孙子兵法、孟子、庄子、礼记、史记、论衡、坛经、传习录、中国哲学简史、国史大纲、青铜时代、中国建筑史、乡土中国、中" /><meta name="keywords" content="Hugo, theme, even" />
 
 
 
 
 
 
-<meta name="generator" content="Hugo 0.56.3 with even 4.0.0" />
+<meta name="generator" content="Hugo 0.91.2 with theme even" />
 
 
 <link rel="canonical" href="http://localhost:1313/post/todostack/" />
@@ -34,30 +34,25 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
 
-<link href="/dist/even.c2a46f00.min.css" rel="stylesheet">
+
+<link href="/sass/main.min.f92fd13721ddf72129410fd8250e73152cc6f2438082b6c0208dc24ee7c13fc4.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
 <meta property="og:title" content="TodoStack" />
-<meta property="og:description" content="深入理解计算机操作系统 极简主义 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch" />
+<meta property="og:description" content="7.16 清华大学推荐：论语、老子、孙子兵法、孟子、庄子、礼记、史记、论衡、坛经、传习录、中国哲学简史、国史大纲、青铜时代、中国建筑史、乡土中国、中" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/post/todostack/" />
+<meta property="og:url" content="http://localhost:1313/post/todostack/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2019-08-06T11:13:06+08:00" />
 <meta property="article:modified_time" content="2019-08-06T11:13:06+08:00" />
+
 <meta itemprop="name" content="TodoStack">
-<meta itemprop="description" content="深入理解计算机操作系统 极简主义 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch">
-
-
-<meta itemprop="datePublished" content="2019-08-06T11:13:06&#43;08:00" />
-<meta itemprop="dateModified" content="2019-08-06T11:13:06&#43;08:00" />
-<meta itemprop="wordCount" content="43">
-
-
-
-<meta itemprop="keywords" content="" />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="description" content="7.16 清华大学推荐：论语、老子、孙子兵法、孟子、庄子、礼记、史记、论衡、坛经、传习录、中国哲学简史、国史大纲、青铜时代、中国建筑史、乡土中国、中"><meta itemprop="datePublished" content="2019-08-06T11:13:06+08:00" />
+<meta itemprop="dateModified" content="2019-08-06T11:13:06+08:00" />
+<meta itemprop="wordCount" content="783">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="TodoStack"/>
-<meta name="twitter:description" content="深入理解计算机操作系统 极简主义 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch"/>
+<meta name="twitter:description" content="7.16 清华大学推荐：论语、老子、孙子兵法、孟子、庄子、礼记、史记、论衡、坛经、传习录、中国哲学简史、国史大纲、青铜时代、中国建筑史、乡土中国、中"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -92,12 +87,21 @@
         <li class="mobile-menu-item">Categories</li>
       </a>
   </ul>
+
+  
+
+
 </nav>
+
   <div class="container" id="mobile-panel">
     <header id="header" class="header">
         <div class="logo-wrapper">
   <a href="/" class="logo">Starry</a>
 </div>
+
+
+
+
 
 <nav class="site-navbar">
   <ul id="menu" class="menu">
@@ -112,6 +116,7 @@
       </li>
   </ul>
 </nav>
+
     </header>
 
     <main id="main" class="main">
@@ -132,15 +137,110 @@
     <div class="post-toc" id="post-toc">
   <h2 class="post-toc-title">Contents</h2>
   <div class="post-toc-content always-active">
-    
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#专业知识">专业知识</a></li>
+        <li><a href="#杂项">杂项</a></li>
+        <li><a href="#学习-c">学习 C++</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
   </div>
 </div>
     <div class="post-content">
-      <p>深入理解计算机操作系统</p>
-
-<p>极简主义</p>
-
+      <p>7.16</p>
+<ul>
+<li><input disabled="" type="checkbox"> 清华大学推荐：论语、老子、孙子兵法、孟子、庄子、礼记、史记、论衡、坛经、传习录、中国哲学简史、国史大纲、青铜时代、中国建筑史、乡土中国、中国古代科学思想史、美的历程；诗经选、唐宋词选释、红楼梦、儒林外史、古文观止、儒林外史、鲁迅选集、围城、平凡的世界；理想国、尼各马可伦理学、沉思录、论法的精神、共产党宣言、资本论第一卷、旧制度与大革命、精神分析引论、新教伦理与资本主义、第二性、科学革命结构、时间简史、人类简史、美的历史；神曲、哈姆雷特、堂吉诃德、浮士德、悲惨世界、卡拉马佐夫兄弟、契诃夫小说选、泰戈尔诗选、城堡、高尔基中短篇作品精选、海明威短篇小说全集、百年孤独</li>
+<li><input disabled="" type="checkbox"> 如何阅读一本书</li>
+<li><input disabled="" type="checkbox"> 乡土中国</li>
+<li><input disabled="" type="checkbox"> 人类群星闪耀时</li>
+<li><input disabled="" type="checkbox"> 沉思录</li>
+<li><input disabled="" type="checkbox"> 平凡的世界</li>
+<li><input disabled="" type="checkbox"> 毛泽东选集</li>
+<li><input disabled="" type="checkbox"> 人生的智慧</li>
+</ul>
+<p>7.10</p>
+<ul>
+<li><input disabled="" type="checkbox"> 自私的基因</li>
+<li><input disabled="" type="checkbox"> 思考，快与慢</li>
+</ul>
+<p>3.31</p>
+<ul>
+<li><input disabled="" type="checkbox"> rework</li>
+<li><input disabled="" type="checkbox"> 码农翻身</li>
+<li><input disabled="" type="checkbox"> 软技能</li>
+</ul>
+<p>2.9</p>
+<ul>
+<li><input disabled="" type="checkbox"> 活出生命的意义</li>
+<li><input disabled="" type="checkbox"> 现代灵魂的自我拯救</li>
+<li><input disabled="" type="checkbox"> 白痴</li>
+<li><input disabled="" type="checkbox"> 善恶的彼岸</li>
+<li><input disabled="" type="checkbox"> 永别了，武器</li>
+<li><input disabled="" type="checkbox"> 地下室手记</li>
+<li><input disabled="" type="checkbox"> 红与黑</li>
+<li><input disabled="" type="checkbox"> 深入理解计算机操作系统</li>
+<li><input checked="" disabled="" type="checkbox"> 人类简史</li>
+<li><input disabled="" type="checkbox"> 潜规则</li>
+<li><input disabled="" type="checkbox"> 经济学原理</li>
+<li><input disabled="" type="checkbox"> 宏观经济学</li>
+<li><input disabled="" type="checkbox"> 国富论</li>
+<li><input checked="" disabled="" type="checkbox"> 小狗钱钱</li>
+<li><input disabled="" type="checkbox"> 财富自由之路</li>
+<li><input disabled="" type="checkbox"> 聪明的投资者</li>
+<li><input disabled="" type="checkbox"> 巴菲特致股东的信</li>
+<li><input disabled="" type="checkbox"> 不上班也有钱</li>
+<li><input disabled="" type="checkbox"> 影响力</li>
+<li><input disabled="" type="checkbox"> 社会心理学</li>
+</ul>
+<h3 id="专业知识">专业知识</h3>
+<ul>
+<li><input disabled="" type="checkbox"> C Primer Plus，主要是指针和内存管理</li>
+<li><input disabled="" type="checkbox"> Essential C++</li>
+<li><input disabled="" type="checkbox"> C++ Primer</li>
+<li><input disabled="" type="checkbox"> Effeetive C++</li>
+<li><input disabled="" type="checkbox"> More Effeetive C++</li>
+<li><input disabled="" type="checkbox"> C++ 标准程序库</li>
+<li><input disabled="" type="checkbox"> 深入探索 C++ 对象模型</li>
+<li><input disabled="" type="checkbox"> C++ Primer Plus</li>
+<li><input disabled="" type="checkbox"> Go In Action</li>
+<li><input disabled="" type="checkbox"> 算法第四版</li>
+<li><input disabled="" type="checkbox"> TCP/IP 详解</li>
+<li><input disabled="" type="checkbox"> 计算机网络 自顶向下</li>
+<li><input disabled="" type="checkbox"> Unix 环境高级编程</li>
+<li><input disabled="" type="checkbox"> MySQL 必知必会</li>
+<li><input disabled="" type="checkbox"> 高性能 MySQL</li>
+<li><input disabled="" type="checkbox"> 重构 改善既有代码的设计</li>
+</ul>
+<p>Tips: 资源，认知，需求
+不要碎片化
+聚焦精力
+实践方法
+极简主义</p>
+<p>脚本实现 markdown 转 docx
+脚本实现提取 changelog 到 xlsx</p>
 <p>关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch</p>
+<h3 id="杂项">杂项</h3>
+<ol>
+<li>事务性工作特征：重复琐碎，可替代性高，无过便是功，没有愉悦感和成就感。</li>
+<li>想办法减少事务性工作的时间，不断提升自我核心竞争力。</li>
+<li>结合兴趣做一些可能在未来增值的事情，找到自己喜欢和擅长的方向，学习通用技能如：结构化思维、当中演讲、沟通技巧。</li>
+</ol>
+<h3 id="学习-c">学习 C++</h3>
+<ul>
+<li><input disabled="" type="checkbox"> <a href="https://light-city.club/sc">C++ 那些事</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://github.com/huihut/interview">C++ 面试基础</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://www.jianshu.com/u/67702c00ea59">C++ 入门系列</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://zhuanlan.zhihu.com/nihaoCPP">你好 C++</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://www.runoob.com/cplusplus/cpp-tutorial.html">C++ 教程</a></li>
+<li><input disabled="" type="checkbox"> <a href="https://www.bilibili.com/video/BV1G7411k7jG/">C++ 的抽象编程</a></li>
+<li><input disabled="" type="checkbox"> 常用数据结构</li>
+<li><input disabled="" type="checkbox"> 常见面试题</li>
+<li><input disabled="" type="checkbox"> 高并发或高性能服务器项目</li>
+</ul>
 
     </div>
 
@@ -159,7 +259,7 @@
   
   <p class="copyright-item">
     <span class="item-title">License</span>
-    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a></span>
+    <span class="item-content"><a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a></span>
   </p>
 </div>
 <footer class="post-footer">
@@ -167,20 +267,16 @@
       <nav class="post-nav">
         <a class="prev" href="/post/linuxshellbible/">
             <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">LinuxShellBible</span>
+            <span class="prev-text nav-default">Linux Shell Bible</span>
             <span class="prev-text nav-mobile">Prev</span>
           </a>
-        <a class="next" href="/post/test/">
-            <span class="next-text nav-default">Test</span>
-            <span class="next-text nav-mobile">Next</span>
-            <i class="iconfont icon-right"></i>
-          </a>
+        
       </nav>
     </footer>
   </article>
         </div>
         
-  
+
   
 
   
@@ -207,13 +303,11 @@
 
   <span class="copyright-year">
     &copy; 
-    2019
-    <span class="heart">
-      <i class="iconfont icon-heart"></i>
-    </span>
-    <span class="author">zz</span>
+    2019 - 
+    2022<span class="heart"><i class="iconfont icon-heart"></i></span><span>zz</span>
   </span>
 </div>
+
     </footer>
 
     <div class="back-to-top" id="back-to-top">
@@ -224,7 +318,10 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/dist/even.26188efa.min.js"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
 
 
 

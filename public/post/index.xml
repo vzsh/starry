@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Starry</title>
@@ -6,13 +6,63 @@
     <description>Recent content in Posts on Starry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Aug 2019 09:07:23 +0800</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 17 Nov 2021 21:56:27 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20211117</title>
+      <link>http://localhost:1313/post/20211117/</link>
+      <pubDate>Wed, 17 Nov 2021 21:56:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/20211117/</guid>
+      <description>记录 找一些小的类库，工具，最好是日常工作使用的，如：字符串处理、简易爬虫框架、ID 生成工具、加密工具。容易做贡献。 多问多读多看，脚踏实地做出</description>
+    </item>
     
     <item>
-      <title>LinuxShellBible</title>
+      <title>毛泽东箴言</title>
+      <link>http://localhost:1313/post/mao-ze-dong-zhen-yan/</link>
+      <pubDate>Mon, 03 May 2021 21:51:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/mao-ze-dong-zhen-yan/</guid>
+      <description>需补充说话背景 观世 什么叫问题？ 问题就是事物的矛盾。 哪里有没有解决的矛盾， 哪里就有问题。 事情总是不完全的， 这就给我们一个任务， 向比较完全前进，</description>
+    </item>
+    
+    <item>
+      <title>Diary</title>
+      <link>http://localhost:1313/post/diary/</link>
+      <pubDate>Mon, 02 Nov 2020 22:49:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/diary/</guid>
+      <description>4.19: 有人见星辰，有人见尘埃。 4.1: 人生就在痛苦和无聊之间摇摆。 2.9: 接受你的痛苦，承受它。尝试成为一个好人。 人生即苦难。 1.29: 风于无路之中寻求最短之路，又</description>
+    </item>
+    
+    <item>
+      <title>宫崎骏的橘子</title>
+      <link>http://localhost:1313/post/gong-qi-jun/</link>
+      <pubDate>Sun, 05 Apr 2020 23:28:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/gong-qi-jun/</guid>
+      <description>千与千寻 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 我不知道将去何方，但我已在路上。 曾经发生过的事情不可</description>
+    </item>
+    
+    <item>
+      <title>左耳听风</title>
+      <link>http://localhost:1313/post/zuo-er-ting-feng/</link>
+      <pubDate>Tue, 24 Mar 2020 22:17:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/zuo-er-ting-feng/</guid>
+      <description>0. 洞悉技术的本质，享受科技的乐趣 技术、成长、管理。 1. 程序员如何用技术变现 通过在公司工作提高自己的技能，让自己可以更为独立和自由地生活。 想尽一</description>
+    </item>
+    
+    <item>
+      <title>《跟任何人都聊得来》笔记</title>
+      <link>http://localhost:1313/post/how-to-communicate-successfully-in-any-situation/</link>
+      <pubDate>Sun, 22 Mar 2020 10:24:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/how-to-communicate-successfully-in-any-situation/</guid>
+      <description>序言 所有的交谈技巧都离不开交谈之道：真正在意对方，将对方放在你心上。 少一份自我，多关注对方兴趣和需求，对方会觉得你是真正在意他，信任感就会日</description>
+    </item>
+    
+    <item>
+      <title>Linux Shell Bible</title>
       <link>http://localhost:1313/post/linuxshellbible/</link>
       <pubDate>Mon, 12 Aug 2019 09:07:23 +0800</pubDate>
       
@@ -26,16 +76,7 @@
       <pubDate>Tue, 06 Aug 2019 11:13:06 +0800</pubDate>
       
       <guid>http://localhost:1313/post/todostack/</guid>
-      <description>深入理解计算机操作系统 极简主义 关注 Linux 方面的咨询，不断更新 Linux 知识体系，访问论坛，如 Slashdot 和 Distrowatch</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/post/test/</link>
-      <pubDate>Thu, 01 Aug 2019 09:11:22 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/test/</guid>
-      <description>Hello, this is my first blog</description>
+      <description>7.16 清华大学推荐：论语、老子、孙子兵法、孟子、庄子、礼记、史记、论衡、坛经、传习录、中国哲学简史、国史大纲、青铜时代、中国建筑史、乡土中国、中</description>
     </item>
     
   </channel>

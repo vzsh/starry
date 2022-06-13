@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阅读 on Starry</title>
+    <link>http://localhost:1313/categories/%E9%98%85%E8%AF%BB/</link>
+    <description>Recent content in 阅读 on Starry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 May 2021 21:51:32 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>毛泽东箴言</title>
+      <link>http://localhost:1313/post/mao-ze-dong-zhen-yan/</link>
+      <pubDate>Mon, 03 May 2021 21:51:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/mao-ze-dong-zhen-yan/</guid>
+      <description>需补充说话背景 观世 什么叫问题？ 问题就是事物的矛盾。 哪里有没有解决的矛盾， 哪里就有问题。 事情总是不完全的， 这就给我们一个任务， 向比较完全前进，</description>
+    </item>
+    
+    <item>
+      <title>左耳听风</title>
+      <link>http://localhost:1313/post/zuo-er-ting-feng/</link>
+      <pubDate>Tue, 24 Mar 2020 22:17:24 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/zuo-er-ting-feng/</guid>
+      <description>0. 洞悉技术的本质，享受科技的乐趣 技术、成长、管理。 1. 程序员如何用技术变现 通过在公司工作提高自己的技能，让自己可以更为独立和自由地生活。 想尽一</description>
+    </item>
+    
+    <item>
+      <title>《跟任何人都聊得来》笔记</title>
+      <link>http://localhost:1313/post/how-to-communicate-successfully-in-any-situation/</link>
+      <pubDate>Sun, 22 Mar 2020 10:24:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/how-to-communicate-successfully-in-any-situation/</guid>
+      <description>序言 所有的交谈技巧都离不开交谈之道：真正在意对方，将对方放在你心上。 少一份自我，多关注对方兴趣和需求，对方会觉得你是真正在意他，信任感就会日</description>
+    </item>
+    
+  </channel>
+</rss>
