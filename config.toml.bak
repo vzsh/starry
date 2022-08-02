@@ -44,11 +44,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "About"
-  weight = 30
-  identifier = "about"
-  url = "/about/"
-[[menu.main]]
   name = "Categories"
   weight = 40
   identifier = "categories"
@@ -199,6 +194,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     anonymizeIP = true      # 12.214.31.144 -> 12.214.31.0
   [privacy.youtube]
     privacyEnhanced = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.

@@ -1,8 +1,8 @@
 ---
-title: "宫崎骏的橘子"
+title: "宫崎骏电影台词"
 contentCopyright: false
 date: 2020-04-05T23:28:21+08:00
-categories: [ "Movie" ]
+categories: [ "sentence" ]
 draft: false
 ---
 
